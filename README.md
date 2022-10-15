@@ -1,2 +1,2 @@
-# Converter_celsiu_fahrenheit
+# Conversor de temperatura celsius, fahrenheith e kelvin
  
